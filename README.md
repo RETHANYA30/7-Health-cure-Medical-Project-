@@ -36,6 +36,34 @@ The algorithms was based on the nature of the datasets and the specific requirem
 5. Logistic Regression
 6. K-Nearest Neighbors (KNN)
 7. Naive Bayes
+**Results**
+**Covid Detection**
+
+Accuracy: 98.3% -Random Forest
+
+**Alzheimer Detection**
+
+Accuracy: 68.13% -Logistic Regression
+
+**Brain Tumor Detection**
+
+Accuracy: 84.58% -CNN
+
+**Breast Cancer Detection**
+
+Accuracy: 97% -Ranodm Forest
+
+**Pneumonia Detection**
+ 
+Accuracy: 94% -CNN
+
+**Heart Disease Detection**
+
+Accuracy: 90.16% -Random Forest
+
+Diabetes Detection
+
+Accuracy: 78% - Support Vector Machine
 
 **Recommendations**
 
